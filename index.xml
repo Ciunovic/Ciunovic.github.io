@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ND_HugoGit</title>
+    <link>https://Ciunovic.github.io/</link>
+    <description>Recent content on ND_HugoGit</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jun 2025 19:13:45 +0300</lastBuildDate>
+    <atom:link href="https://Ciunovic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NamuDarbas_Hugo</title>
+      <link>https://Ciunovic.github.io/posts/nd_hugo/</link>
+      <pubDate>Mon, 02 Jun 2025 19:13:45 +0300</pubDate>
+      <guid>https://Ciunovic.github.io/posts/nd_hugo/</guid>
+      <description>&lt;p&gt;Pagaliau atejo vasara, bet deja arteja ir egzaminai&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
