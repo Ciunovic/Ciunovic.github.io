@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Ciunovic.github.io/posts/nd_hugo/</loc>
-    <lastmod>2025-06-02T19:13:45+03:00</lastmod>
+    <loc>https://Ciunovic.github.io/posts/post_with_image_and_code/</loc>
+    <lastmod>2025-06-02T20:02:26+03:00</lastmod>
   </url><url>
     <loc>https://Ciunovic.github.io/</loc>
-    <lastmod>2025-06-02T19:13:45+03:00</lastmod>
+    <lastmod>2025-06-02T20:02:26+03:00</lastmod>
   </url><url>
     <loc>https://Ciunovic.github.io/posts/</loc>
+    <lastmod>2025-06-02T20:02:26+03:00</lastmod>
+  </url><url>
+    <loc>https://Ciunovic.github.io/posts/nd_hugo/</loc>
     <lastmod>2025-06-02T19:13:45+03:00</lastmod>
   </url><url>
     <loc>https://Ciunovic.github.io/categories/</loc>
